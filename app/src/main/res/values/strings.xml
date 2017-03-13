@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">摇摇乐</string>
+    <string name="start">开始游戏</string>
+    <string name="timesUp">游戏结束</string>
+    <string name="exit">退出游戏</string>
+    <string name="rank">排行榜</string>
+    <string name="tips">点击开始游戏后快速摇晃你的手机，10秒后游戏自动结束，看下你能得多少分吧！\n注意手机不要飞出去哦</string>
+    <string name="level1">啊呀！你这也太差劲了吧</string>
+    <string name="level2">嗯~这成绩，一般般吧</string>
+    <string name="level3">太厉害了！要继续保持哦</string>
+    <string name="feedback">反馈意见</string>
+    <string name="nicNameEditor">你的游戏昵称</string>
+    <string name="editTips">首次开始游戏需要输入一个游戏昵称，该昵称会显示在游戏排行榜上(最长支持20个字符哦)</string>
+</resources>
